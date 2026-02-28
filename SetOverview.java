@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.concurrent.CopyOnWriteArraySet;
 
 public class SetOverview {
     public static void main(String[] args) {
