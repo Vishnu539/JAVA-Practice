@@ -24,5 +24,8 @@ public class IntermediateOperations {
 
         // 5. Limit
         System.out.println(students.stream().limit(5).toList());
+
+        // 6. Peek
+        Stream.iterate(10, x -> x + 1).limit(50).peek(System.out::println).count();
     }
 }
