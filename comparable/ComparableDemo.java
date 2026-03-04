@@ -1,3 +1,4 @@
+package comparable;
 import java.util.*;
 
 public class ComparableDemo {

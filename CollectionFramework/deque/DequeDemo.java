@@ -1,3 +1,4 @@
+package CollectionFramework.deque;
 import java.util.*;
 
 public class DequeDemo {

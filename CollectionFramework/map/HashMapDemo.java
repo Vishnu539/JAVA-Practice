@@ -1,3 +1,4 @@
+package CollectionFramework.map;
 import java.util.HashMap;
 
 public class HashMapDemo {

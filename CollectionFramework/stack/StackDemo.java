@@ -1,3 +1,4 @@
+package CollectionFramework.stack;
 import java.util.*;
 
 public class StackDemo {
