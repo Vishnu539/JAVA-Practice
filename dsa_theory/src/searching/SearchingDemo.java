@@ -1,3 +1,5 @@
+package dsa_theory.src.searching;
+
 public class SearchingDemo {
     public static void main(String[] args) {
         int nums[] = {10, 20, 30, 40, 50};
