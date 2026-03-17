@@ -9,7 +9,7 @@ public class QuickSortDemo {
         // The sorting logic is that all the elements to the left of the pivot must be smaller than the pivot and all elements to the right of the pivot must be larger than the pivot.
         // A quickSortHelper method is used to divide the array into sub-arrays based on the pivot element.
         // The partition method is where the actual sorting logic runs.
-        // Time complexity - O(n log n).
+        // Time complexity - O(n^2).
 
         int[] nums = {3,9,-8,-1,0,5};
         System.out.println("Before sorting: ");
